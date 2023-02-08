@@ -50,6 +50,11 @@ h3 {
     color: rgb(176, 202, 219);
 }
 
+.nav {
+    margin: 15% 2em 2em;
+    text-align: right;
+}
+
 .nav-list {
     margin: 0;
     padding: 0;
@@ -162,7 +167,7 @@ h3 {
     }
 
     .header {
-        margin: 80% 2em 0;
+        margin: 45% 2em 0;
         text-align: right;
     }
 
