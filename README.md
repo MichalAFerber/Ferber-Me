@@ -35,3 +35,5 @@ Source: [https://www.houseofnames.com/Ferber-family-crest](https://www.houseofna
 [https://ferber.me/Ferber_Germany_History.pdf](https://ferber.me/Ferber_Germany_History.pdf)
 
 ##Ferber Photos
+
+##Uses the lightGallery project for the photos. [https://www.lightgalleryjs.com/](https://www.lightgalleryjs.com/)
