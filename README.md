@@ -38,4 +38,6 @@ Source: [https://www.houseofnames.com/Ferber-family-crest](https://www.houseofna
 See website for photo gallery
 
 ## Credits
-Ferber Photos uses lightGallery [https://www.lightgalleryjs.com/](https://www.lightgalleryjs.com/) [https://github.com/sachinchoolur/lightGallery](https://github.com/sachinchoolur/lightGallery)  
+Ferber Photos uses lightGallery   
+[https://www.lightgalleryjs.com/](https://www.lightgalleryjs.com/)   
+[https://github.com/sachinchoolur/lightGallery](https://github.com/sachinchoolur/lightGallery)  
