@@ -1,5 +1,5 @@
 # The Ferber Family Website
-[The Ferber Family Website https://ferber.me/](https://ferber.me/)
+[Website | https://ferber.me/](https://ferber.me/)
 
 ## Family Websites
 [ARI INTEGRATION](https://ari-integration.com/)   
