@@ -1,5 +1,5 @@
 # The Ferber Family Website
-[The Ferber Family Website](https://ferber.me/)
+[The Ferber Family Website https://ferber.me/](https://ferber.me/)
 
 ## Family Websites
 [ARI INTEGRATION](https://ari-integration.com/)   
@@ -38,4 +38,4 @@ Source: [https://www.houseofnames.com/Ferber-family-crest](https://www.houseofna
 See website for photo gallery
 
 ## Credits
-Ferber Photos [https://www.lightgalleryjs.com/](https://www.lightgalleryjs.com/)   
+Ferber Photos uses lightGallery [https://www.lightgalleryjs.com/](https://www.lightgalleryjs.com/) [https://github.com/sachinchoolur/lightGallery](https://github.com/sachinchoolur/lightGallery)  
