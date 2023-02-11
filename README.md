@@ -9,7 +9,7 @@
 [GRACE SCHOOL ASSOCIATIONS](https://gsaeducators.com/)   
 [GSA MANAGER](https://gsamanager.org/)   
 [IP COW](https://ipcow.com/)   
-[MICHAL.FERBER.ME]](https://michal.ferber.me/)   
+[MICHAL.FERBER.ME](https://michal.ferber.me/)   
 [MICHAL FERBER](https://michalferber.com/)   
 [SECOND WIND FARMSTEAD](https://www.youtube.com/@SecondWindFarmstead)   
 [ZACHARY FERBER](https://zacharyferber.com/)   
